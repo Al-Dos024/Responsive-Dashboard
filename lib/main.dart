@@ -7,6 +7,7 @@ void main() {
 
 class ResponsiveDashBoard extends StatelessWidget {
   const ResponsiveDashBoard({super.key});
+
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
